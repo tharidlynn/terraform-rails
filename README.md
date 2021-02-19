@@ -1,5 +1,5 @@
 # Warning
-~~Recently, November, 2020, [Official Docker](https://docs.docker.com/cloud/ecs-integration/) just announced the official ecs integration with docker compose which I think it has better implementation than the terraform-from-scratch approach like this repo. ~~
+<del>Recently, November, 2020, [Official Docker](https://docs.docker.com/cloud/ecs-integration/) just announced the official ecs integration with docker compose which I think it has better implementation than the terraform-from-scratch approach like this repo.</del>
 
 Recently [AWS](https://aws.amazon.com/blogs/containers/introducing-aws-copilot/) just announced the AWS Copilot to help developers focus more on writing code than setting up boring infrastructure. It has the pretty well-balanced between of good abstractions and flexibility. 
 
